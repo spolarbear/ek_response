@@ -65,15 +65,15 @@
 
 ### 1d模型
 <img width="1500" height="600" alt="training_history" src="https://github.com/user-attachments/assets/53d7ae8b-8584-452f-9c6b-c9a76ca13c34" />
-
 ### 2d模型（带模型参数）
 <img width="1500" height="600" alt="frame_training_history" src="https://github.com/user-attachments/assets/80a9bf4a-48c5-473b-b2a2-4347ca1f8704" />
-
 
 ## 测试结果（1d）
 <img width="2250" height="4500" alt="random_test_comparison" src="https://github.com/user-attachments/assets/9d4bbbb5-8b8a-4948-884c-e3be0d00290d" />
 ## 测试结果（2d with params）
 <img width="2250" height="4500" alt="frame_params_test_comparison" src="https://github.com/user-attachments/assets/8f7973ad-acfe-4c51-a358-ba23362997f2" />
+## 测试结果（2d with params and transformer）
+<img width="2250" height="2700" alt="fixed_final_result" src="https://github.com/user-attachments/assets/9d7c33f5-bc11-43a6-a9ae-aebf5c798bd8" />
 
 
 ## 其他
