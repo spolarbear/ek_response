@@ -76,14 +76,19 @@ with params 表示输入的是分析模型+动力加载
 
 <img width="1500" height="600" alt="training_history" src="https://github.com/user-attachments/assets/53d7ae8b-8584-452f-9c6b-c9a76ca13c34" />
 
+简评：只能适配单一结构，进行预求解+训练，等同于检索结果、结果连续化。
+
 ### 2d模型（带模型参数）
 
 <img width="1500" height="600" alt="frame_training_history" src="https://github.com/user-attachments/assets/80a9bf4a-48c5-473b-b2a2-4347ca1f8704" />
+
+简评：速度极慢，总耗时为其他的5~10倍，结果亦不佳。
 
 ### 2d模型（transformer）
 
 <img width="2100" height="1500" alt="training_curves" src="https://github.com/user-attachments/assets/179ab9d7-404c-4a73-923e-e4156a4eed8e" />
 
+简评：结果满足工程需要，学习耗时0.5~1h。
 
 ## 测试结果
 
