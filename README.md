@@ -52,3 +52,19 @@
 ## 测试结果（2d with params）
 <img width="2250" height="4500" alt="frame_params_test_comparison" src="https://github.com/user-attachments/assets/8f7973ad-acfe-4c51-a358-ba23362997f2" />
 
+
+## 其他
+
+### 数据缓存（CACHE_FILE）
+
+作用：保存仿真生成的训练数据，避免重复运行 OpenSees保存时机：数据生成完成后（一次性保存）
+
+大小：10万条样本 × 2000步 × 3个数组 ≈ 2-3 GB
+
+### 训练检查点（CHECKPOINT_FILE）
+
+作用：保存训练状态，支持中断恢复
+
+保存时机：每 5 个 epoch 保存一次（可配置）
+
+大小：约 200-500 MB（取决于模型大小）
