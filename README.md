@@ -108,3 +108,16 @@
 总质量	6 × (20k~60k) × (2~4节点/层) = 120k ~ 1,440k kg
 
 基本周期	约 0.3 ~ 2.0 s (取决于高度和刚度)
+
+
+### 训练环境
+
+处理器	Intel(R) Xeon(R) Silver 4210R CPU @ 2.40GHz   2.39 GHz
+
+机带 RAM	128 GB (128 GB 可用)
+
+存储	447 GB ThinkSystem M.2 VD, 4.36 TB Lenovo RAID 730-8i 1GB
+
+显卡	NVIDIA GeForce RTX 3080 (10 GB)
+
+模型2：仿真1h；训练epoch=60约6h
