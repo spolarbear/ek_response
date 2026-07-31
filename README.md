@@ -49,10 +49,13 @@
 ## 输入的人工波：
 <img width="1800" height="1200" alt="loaded_earthquake_waves" src="https://github.com/user-attachments/assets/605c8cdd-0b97-4e6f-9199-69f6ab987ea2" />
 
-## 1d仿真得到的动力响应结果（右）
+## 仿真结果
+提取结构顶点位移时程曲线，用以衡量弹性位移角情况。
+
+### 1d仿真得到的动力响应结果（右）
 <img width="2100" height="1800" alt="sample_frame_response" src="https://github.com/user-attachments/assets/5e9216cf-8cfd-45c8-9ed3-19c7b91580e6" />
 
-## 2d仿真结果
+### 2d仿真结果
 <img width="2250" height="1500" alt="sample_frame_params_response" src="https://github.com/user-attachments/assets/64ed0e7e-7d93-401c-84d2-d931bcd1d1d6" />
 
 
