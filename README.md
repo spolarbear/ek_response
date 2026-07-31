@@ -15,6 +15,10 @@
 
 6个参数输入到MLP编码器，生成256维嵌入向量。
 
+### 模型结构（2d with params and transformer）
+
+采用transformer架构，更为成熟，适配大规模样本
+
 
 可变参数：
 
