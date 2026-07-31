@@ -75,6 +75,11 @@
 
 <img width="1500" height="600" alt="frame_training_history" src="https://github.com/user-attachments/assets/80a9bf4a-48c5-473b-b2a2-4347ca1f8704" />
 
+### 2d模型（transformer）
+
+<img width="2100" height="1500" alt="training_curves" src="https://github.com/user-attachments/assets/179ab9d7-404c-4a73-923e-e4156a4eed8e" />
+
+
 ## 测试结果
 
 ### 测试结果（1d）
@@ -87,7 +92,9 @@
 
 ### 测试结果（2d with params and transformer）
 
-<img width="2250" height="2700" alt="fixed_final_result" src="https://github.com/user-attachments/assets/9d7c33f5-bc11-43a6-a9ae-aebf5c798bd8" />
+<img width="2250" height="4500" alt="prediction_results" src="https://github.com/user-attachments/assets/f8eab4c3-3e47-492f-b7f3-af4c031401b2" />
+
+<img width="2100" height="1500" alt="error_analysis" src="https://github.com/user-attachments/assets/f6c84198-acc5-4292-8416-9fce588c91df" />
 
 
 ## 其他
